@@ -1,4 +1,4 @@
-import logo from '../../assets/img/logo.svg'
+import logo from '../../assets/img/logo.svg';
 
 import './styles.css'
 function Header() {
@@ -15,4 +15,4 @@ function Header() {
         </header>
     )
 }
-export default Header
+export default Header;
